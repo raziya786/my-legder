@@ -1,0 +1,16 @@
+.navbar-brand {
+    white-space: nowrap; 
+    font-size: x-large;
+  }
+  
+  .navbar-nav .nav-link {
+    white-space: nowrap; 
+  }
+  
+  .navbar-main{
+    background-color: #4caf50;
+  }
+  
+  .my-buttons{
+    background-color: white;
+  }
